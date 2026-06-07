@@ -47,8 +47,8 @@ Fixing that, and addressing the rest of the feedback, **changed the paper's conc
 
 | File | Description |
 |---|---|
-| `Pneumonia_Detection_Consolidated.ipynb` | End-to-end notebook: data pipeline, two-phase training, evaluation, all figures. Runs top-to-bottom in one session. |
-| `paper.pdf` | The revised conference paper (IEEE format). |
+| `Pneumonia_Detection_using_Transfer_Learning.ipynb` | End-to-end notebook: data pipeline, two-phase training, evaluation, all figures. Runs top-to-bottom in one session. |
+| `Pneumonia_detection_reviewed.pdf` | The revised conference paper (IEEE format). |
 | `figures/` | Confusion matrices, ROC curves, training curves, and pipeline diagrams. |
 | `results_summary.csv` | Final per-model metrics. |
 
@@ -94,7 +94,7 @@ A single public dataset was used, which may not reflect real clinical variabilit
 
 ## Citation
 
-If you reference this work, please cite the paper (see `pneumonia_detection_reviewd.pdf`).
+If you reference this work, please cite the paper (see `pneumonia_detection_reviewed.pdf`).
 
 > D. Aromose, S. E. Uwah, and C. Iwendi, "Impact of Model Complexity on Transfer Learning-Based Pneumonia Detection Using Public Chest X-Ray Images."
 
