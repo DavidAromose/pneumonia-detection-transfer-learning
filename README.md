@@ -61,7 +61,6 @@ Fixing that, and addressing the rest of the feedback, **changed the paper's conc
 - 5,216 training images (1,341 Normal / 3,875 Pneumonia — roughly 1:2.9 imbalance)
 - 624 test images (234 Normal / 390 Pneumonia)
 
-The dataset is **not** included in this repo. Download it from Kaggle and point `BASE_DIR` in the notebook to your local `chest_xray/` folder.
 
 ---
 
@@ -95,7 +94,7 @@ A single public dataset was used, which may not reflect real clinical variabilit
 
 ## Citation
 
-If you reference this work, please cite the paper (see `paper.pdf`).
+If you reference this work, please cite the paper (see `pneumonia_detection_reviewd.pdf`).
 
 > D. Aromose, S. E. Uwah, and C. Iwendi, "Impact of Model Complexity on Transfer Learning-Based Pneumonia Detection Using Public Chest X-Ray Images."
 
@@ -106,4 +105,4 @@ If you reference this work, please cite the paper (see `paper.pdf`).
 **David Aromose** — MRes in Applied Artificial Intelligence, University of Greater Manchester
 ORCID: [0009-0008-7428-6650](https://orcid.org/0009-0008-7428-6650)
 
-*Research interests: AI safety and security, MLSecOps, responsible AI.*
+*Research interests: AI Engineering, Software Engineering, AI safety and security, MLSecOps, responsible AI.*
